@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Flynn&#39;s Arcade</title>
+    <link>https://arcad3.gitlab.io/hugo/post/</link>
+    <description>Recent content in Posts on Flynn&#39;s Arcade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://arcad3.gitlab.io/hugo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Website</title>
+      <link>https://arcad3.gitlab.io/hugo/post/this-site/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://arcad3.gitlab.io/hugo/post/this-site/</guid>
+      <description>Hello This website is&amp;hellip;
+About this game I&amp;rsquo;m building</description>
+    </item>
+    
+  </channel>
+</rss>
