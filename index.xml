@@ -2,30 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flynn&#39;s Arcade</title>
-    <link>https://arcad3.gitlab.io/hugo/</link>
+    <link>https://f17nn.github.io/</link>
     <description>Recent content on Flynn&#39;s Arcade</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://arcad3.gitlab.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://f17nn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>This Website</title>
-      <link>https://arcad3.gitlab.io/hugo/post/this-site/</link>
+      <title>About this blog</title>
+      <link>https://f17nn.github.io/post/this-site/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://arcad3.gitlab.io/hugo/post/this-site/</guid>
-      <description>Hello This website is&amp;hellip;
-About this game I&amp;rsquo;m building</description>
+      <guid>https://f17nn.github.io/post/this-site/</guid>
+      <description>A few years ago I had an idea for a short movie about a guy staying at a house in the middle of nowhere to finish a book he was writing. For the longest time I had no idea where I was going with that. I had a few thoughts and a general idea about the ending. After a while I realized that I would rather make the movie into a game or rather an interactive story.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://arcad3.gitlab.io/hugo/page/about/</link>
+      <link>https://f17nn.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://arcad3.gitlab.io/hugo/page/about/</guid>
+      <guid>https://f17nn.github.io/page/about/</guid>
       <description>This is about&amp;hellip;
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now</description>
     </item>
